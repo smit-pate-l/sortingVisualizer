@@ -1,0 +1,26 @@
+/* #bodyContainer {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(230, 230, 230);
+    text-align: center;
+  }
+  
+  .array-bar {
+    padding-top: 7px;
+    font-family: sans-serif;
+    font-weight: 700;
+    display: inline-block;
+  } */
+
+  .array-container {
+    position: absolute;
+    left: 100px;
+    /* top: 210px; */
+  }
+  
+  .array-bar {
+    width: 3px;
+    background-color: turquoise;
+    display: inline-block;
+    margin: 50px 2px;
+  }
